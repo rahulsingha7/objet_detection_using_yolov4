@@ -27,4 +27,4 @@ The trained YOLOv4 model is deployed to identify and classify objects within ima
 ## Results
 
 - **Object Detection**: The YOLOv4 model effectively detects and identifies objects, providing high accuracy and reliability.
- - ![Object Detection](https://i.ibb.co/BCqbxLF/od.png) 
+ - ![Object Detection](https://i.ibb.co/yBjnDk5/of.png) 
